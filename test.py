@@ -1,4 +1,4 @@
-print ("\nsimple python calculator program\n"
+print ("\nsimple python calculator program\n")
 
 num1 = 10
 num2 = 5
